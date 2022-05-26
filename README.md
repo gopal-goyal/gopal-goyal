@@ -50,15 +50,6 @@ Here are some ideas to get you started:
 
  <br /> 
 
-<h1> Projects </h1>
-
-2022
- - Notes app
-
-2021
-- Climate app
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 <a href="https://www.linkedin.com/in/gopal911/">
   <img align="left" alt="Gopal's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
