@@ -19,6 +19,15 @@ Here are some ideas to get you started:
 <h2> 👩‍💻 About Me </h2>
 
 - 🤩 &nbsp; I love exploring new technologies particularly relating to web development
-- 🎓 &nbsp; Computer Science student at NIT, Hamirpur, and a self taught full stack web developer
+- 🎓 &nbsp; Computer Science student at NIT Hamirpur, and a self taught full stack web developer
 <!--
 - ✍️ &nbsp; Pursuing Full stack development and a cricketer for fun.-->
+
+<h2>🛠 Tech Stack</h2>
+
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | TypeScript | Angular| React | Node.js | Express |EJS | API | Authentication| OAuth 
+- 🛢 &nbsp; MySQL | MongoDB | Mongoose 
+- 🚓 &nbsp; C | C++
+- 🔧 &nbsp; Data Structures & Algorithms | Computer Networks
+
+<!-- - 🖥 &nbsp; -->
