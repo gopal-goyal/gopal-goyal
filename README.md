@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 <h2>🛠 Tech Stack</h2>
 
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | TypeScript | Angular| React | Node.js | Express |EJS | API | Authentication| OAuth 
-- 🛢 &nbsp; MySQL | MongoDB | Mongoose 
-- 🚓 &nbsp; C | C++
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Flutter | Angular| React | Node.js | Express |EJS | API | Authentication| OAuth 
+- 🛢 &nbsp; MySQL | Mongoose 
+- 🚓 &nbsp; C | C++ | Dart
 - 🔧 &nbsp; Data Structures & Algorithms | Computer Networks
 
 <img align="left" alt="Ethereum" width="30px" src="https://img.icons8.com/nolan/64/ethereum.png" />
