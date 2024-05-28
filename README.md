@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 <h2>🛠 Tech Stack</h2>
 
+- 🔧 &nbsp; Deep Learning | Hugging Face | YOLO | Data Processing  
 - 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Flutter | Angular| React | Node.js | Express |EJS | API | Authentication| OAuth 
 - 🛢 &nbsp; MySQL | Mongoose 
 - 🚓 &nbsp; C | C++ | Dart
