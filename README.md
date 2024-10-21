@@ -1,58 +1,63 @@
 ### Hi there, I'm Gopal 👋
 
-<!--
-**gopal-goyal/gopal-goyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h2> 👩‍💻 About Me </h2>
 
-- 😎 &nbsp; My destiny is to become a cricketer but my choice is to become a developer
-- 🤩 &nbsp; I love exploring new technologies particularly relating to web development
-- 🎓 &nbsp; Computer Science student at NIT Hamirpur, and a self taught full stack web developer
-<!--
-- ✍️ &nbsp; Pursuing Full stack development and a cricketer for fun.-->
+- 😎 &nbsp; My destiny was to become a cricketer, but my passion led me to software development!
+- 🤩 &nbsp; I’m currently working as a **Senior Developer 2** at **Gemini Solutions Pvt. Ltd.**
+- 🧠 &nbsp; I specialize in **Python development**, **Machine Learning**, and **Data Science**.
+- 🎓 &nbsp; Computer Science graduate from **NIT Hamirpur**, a self-taught full-stack developer, and a tech enthusiast.
+- 🚀 &nbsp; I love exploring new technologies, working with AI/ML models, and building real-world projects.
 
 <h2>🛠 Tech Stack</h2>
 
-- 🔧 &nbsp; Deep Learning | Hugging Face | YOLO | Data Processing  
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Flutter | Angular| React | Node.js | Express |EJS | API | Authentication| OAuth 
-- 🛢 &nbsp; MySQL | Mongoose 
-- 🚓 &nbsp; C | C++ | Dart
-- 🔧 &nbsp; Data Structures & Algorithms | Computer Networks
+- 🔧 &nbsp; **AI/ML**: Deep Learning | Hugging Face | YOLO | FinBERT | Transformers | TensorFlow | PyTorch | Scikit-learn
+- 💻 &nbsp; **Web Development**: HTML5 | CSS3 | JavaScript | React.js | Node.js | Express.js | Flutter | API Integration | OAuth
+- 🛢 &nbsp; **Databases**: MySQL | MongoDB
+- 🌍 &nbsp; **Tools & Technologies**: AWS (ECS) | Docker | Git | Boto3 | MoviePy | VSCode | Linux | Windows
+- ⚙️ &nbsp; **Programming Languages**: Python | C | C++ | Dart
+- 💾 &nbsp; **Data Handling & Visualization**: Pandas | Matplotlib | Seaborn | Data Wrangling | Financial Data Analytics
 
-<img align="left" alt="Ethereum" width="30px" src="https://img.icons8.com/nolan/64/ethereum.png" />
-<img align="left" alt="Web3" width="30px" src="https://raw.githubusercontent.com/ethereum/web3.js/1.x/assets/logo/web3js.jpg" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Chai" width="30px" src="https://camo.githubusercontent.com/431283cc1643d02167aac31067137897507c60fc/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" />
-<img align="left" alt="Mocha" width="30px" src="https://camo.githubusercontent.com/af4bf83ab2ca125346740f9961345a24ec43b3a9/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" />
-<img align="left" alt="Heroku" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/heroku.svg" />
+<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/775cfef3335fcb042db7774acff1e4662f051506/topics/docker/docker.png" />
+<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/75563b876d6f9d890d50a66f1726b6ab5e0f8f32/topics/aws/aws.png" />
+<img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/1c7f5b31f66a47e730ed803226fc3b766eccd165/topics/flutter/flutter.png" />
 
-<!-- - 🖥 &nbsp; -->
+<br />
 
- <br /> 
+---
+
+<h2> 🚀 Projects </h2>
+
+- **🏀 Sports Performance Analytics**: Developed a tool to help basketball players track and improve performance using **dashcam footage** and **custom machine learning models**. Focused on **Python-based** model training, data processing, and end-to-end deployment.
+  
+- **💹 Forex Sentiment Analysis Dashboard**: Built an AI-powered dashboard that analyzes financial data for USD/JPY pairs using **FinBERT** for sentiment scoring. Added advanced graphical visualizations and filters for comparison analysis, all deployed on **AWS ECS**.
+  
+- **🎥 Text-to-Video AI Solution**: Created a solution that uses **large language models (LLMs)** like Llama and **Stable Diffusion** to convert text into high-quality video content. Managed prompt engineering, audio generation, and synchronization of video elements.
+  
+- **🌐 Portfolio Website**: Developed a portfolio website for **Goyal Fertilizers & Commodities** using **React.js** and **Node.js**, ensuring responsive design and modern web functionality.
+
+- **💻 Flutter & React Apps**: Built several mobile and web applications, including a **Weather Forecast App** and **Hidden Calculator Vault App**, gaining experience in full-stack development.
+
+---
+
+<h2> 🌱 I’m currently learning </h2>
+
+- Advanced **prompt engineering** techniques for optimizing large-scale language models.
+- Experimenting with **Stable Diffusion** and other generative AI technologies.
+- Exploring new developments in **financial modeling** and **AI-based market analysis**.
+
+---
 
 <h3> 🤝🏻 Connect with Me </h3>
 <a href="https://www.linkedin.com/in/gopal911/">
   <img align="left" alt="Gopal's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://github.com/gopal-goyal">
+  <img align="left" alt="Gopal's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<br />
+
