@@ -10,7 +10,7 @@
 
 <h2>🛠 Tech Stack</h2>
 
-- 🔧 &nbsp; **AI/ML**: Deep Learning | Hugging Face | YOLO | FinBERT | Transformers | TensorFlow | PyTorch | Scikit-learn
+- 🔧 &nbsp; **AI/ML**: Deep Learning | Hugging Face | YOLO | BERT | Transformers | TensorFlow | PyTorch | Scikit-learn
 - 💻 &nbsp; **Web Development**: HTML5 | CSS3 | JavaScript | React.js | Node.js | Express.js | Flutter | API Integration | OAuth
 - 🛢 &nbsp; **Databases**: MySQL | MongoDB
 - 🌍 &nbsp; **Tools & Technologies**: AWS (ECS) | Docker | Git | Boto3 | MoviePy | VSCode | Linux | Windows
@@ -31,15 +31,39 @@
 
 <h2> 🚀 Projects </h2>
 
-- **🏀 Sports Performance Analytics**: Developed a tool to help basketball players track and improve performance using **dashcam footage** and **custom machine learning models**. Focused on **Python-based** model training, data processing, and end-to-end deployment.
-  
-- **💹 Forex Sentiment Analysis Dashboard**: Built an AI-powered dashboard that analyzes financial data for USD/JPY pairs using **FinBERT** for sentiment scoring. Added advanced graphical visualizations and filters for comparison analysis, all deployed on **AWS ECS**.
-  
-- **🎥 Text-to-Video AI Solution**: Created a solution that uses **large language models (LLMs)** like Llama and **Stable Diffusion** to convert text into high-quality video content. Managed prompt engineering, audio generation, and synchronization of video elements.
-  
-- **🌐 Portfolio Website**: Developed a portfolio website for **Goyal Fertilizers & Commodities** using **React.js** and **Node.js**, ensuring responsive design and modern web functionality.
+- **🏀 Sports Performance Analytics**  
+  - Developed a **machine learning-based solution** to help basketball players analyze and improve their performance using **dashcam footage**.
+  - **Trained custom ML models** for tracking player movements, analyzing game statistics, and providing actionable insights to athletes.
+  - Implemented the entire **end-to-end codebase** in **Python**, from data processing to model deployment and retrieval of analysis results.
+  - Worked extensively with **data labeling** for training object detection models using **Roboflow**.
+  - Leveraged libraries such as **OpenCV**, **TensorFlow**, and **PyTorch** to build the AI models.
+  - Deployed the solution for real-time analysis, helping players track progress via a mobile app.
 
-- **💻 Flutter & React Apps**: Built several mobile and web applications, including a **Weather Forecast App** and **Hidden Calculator Vault App**, gaining experience in full-stack development.
+- **💹 Forex Sentiment Analysis Dashboard**  
+  - Built an **AI-powered financial dashboard** that analyzes forex trends and sentiment for **USD/JPY currency pairs** by processing news articles.
+  - Integrated **FinBERT** to calculate sentiment scores, providing clients with a visual representation of market sentiment and trends.
+  - Developed filters for custom **graphical visualizations** and **comparison tools** to analyze forex data over different time periods.
+  - Deployed the solution on **AWS ECS**, ensuring scalable and reliable access to the data analysis platform.
+  - Utilized prompt engineering to enhance text summarization using **Llama** and **transformers** for sentiment analysis.
+
+- **🎥 Text-to-Video AI Solution**  
+  - Created a **text-to-video conversion tool** using **large language models (LLMs)** such as **Llama** and **Stable Diffusion** for AI-generated video content.
+  - Engineered prompts to optimize the **LLM outputs**, generating coherent visual and audio elements for the final videos.
+  - Developed a solution to convert text prompts into **realistic videos** with synchronized speech using **gTTS** (Google Text-to-Speech).
+  - Managed the full **video generation pipeline**, including model training, content creation, and video rendering.
+  - Deployed the solution for internal demos, showcasing **AI-driven automation** in creating marketing and explainer videos.
+
+- **🌐 Portfolio Website for Goyal Fertilizers & Commodities**  
+  - Designed and developed a **responsive portfolio website** for a family business using **React.js** for the frontend and **Node.js** for backend operations.
+  - Implemented modern web design practices, ensuring the website was mobile-friendly and optimized for SEO.
+  - Used **REST APIs** to handle dynamic content and integrated **authentication** for secure access to data.
+
+- **💻 Flutter & React Apps**  
+  - Built multiple **Flutter-based mobile applications** during college, including a **Weather Forecast App** and a **Hidden Calculator Vault App**.
+  - Utilized **Firebase** for real-time data storage and authentication services in the mobile apps.
+  - Created **React.js projects** such as to-do lists, personal blogs, and small web utilities, gaining hands-on experience in frontend development.
+  - Demonstrated expertise in **Dart**, **JavaScript**, and modern web development tools.
+
 
 ---
 
