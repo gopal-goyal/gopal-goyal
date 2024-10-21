@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <h2> 👩‍💻 About Me </h2>
 
+- 😎 &nbsp; My destiny is to become a cricketer but my choice is to become a developer
 - 🤩 &nbsp; I love exploring new technologies particularly relating to web development
 - 🎓 &nbsp; Computer Science student at NIT Hamirpur, and a self taught full stack web developer
 <!--
