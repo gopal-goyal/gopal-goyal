@@ -24,7 +24,7 @@
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Docker" width="30px" src="https://w7.pngwing.com/pngs/34/543/png-transparent-docker-plain-wordmark-logo-icon-thumbnail.png" />
-<img align="left" alt="AWS" width="30px" src="https://w7.pngwing.com/pngs/555/220/png-transparent-aws-hd-logo.png" />
+<img align="left" alt="AWS" width="30px" src="https://www.pngall.com/wp-content/uploads/13/AWS-Logo-PNG-File.png" />
 <img align="left" alt="Flutter" width="30px" src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png" />
 
 <br />
