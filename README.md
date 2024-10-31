@@ -13,7 +13,7 @@
 <h2>🛠 Tech Stack</h2>
 
 - 🔧 &nbsp; **AI/ML**: Deep Learning | Hugging Face | YOLO | BERT | Transformers | TensorFlow | PyTorch | Scikit-learn
-- 💻 &nbsp; **Web Development**: HTML5 | CSS3 | JavaScript | React.js | Node.js | Express.js | Flutter | API Integration | OAuth
+- 💻 &nbsp; **Web Development**: HTML5 | CSS3 | JavaScript | React.js | Node.js | Flutter | API Integration | OAuth
 - 🛢 &nbsp; **Databases**: MySQL | MongoDB
 - 🌍 &nbsp; **Tools & Technologies**: AWS (ECS) | Docker | Git | Boto3 | MoviePy | VSCode | Linux | Windows
 - ⚙️ &nbsp; **Programming Languages**: Python | C | C++ | Dart
