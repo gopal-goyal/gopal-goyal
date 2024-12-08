@@ -1,7 +1,7 @@
 ### Hi there, I'm Gopal 👋
 
-<img src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="125" height="125" alt="Soulja Boy Pepe Sticker - Soulja Boy Pepe Typing Stickers" style="max-width: 104px; background-color: unset; margin: 8px;">
-<img src="https://media1.tenor.com/m/ndrGxEeXsGkAAAAd/pepe-spin.gif" width="125" height="125" alt="Soulja Boy Pepe Sticker - Soulja Boy Pepe Typing Stickers" style="max-width: 104px; background-color: unset; margin: 8px;">
+<img align="left" src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="125" height="125" alt="Soulja Boy Pepe Sticker - Soulja Boy Pepe Typing Stickers" style="max-width: 104px; background-color: unset; margin: 8px;">
+<img align="left" src="https://media1.tenor.com/m/ndrGxEeXsGkAAAAd/pepe-spin.gif" width="125" height="125" alt="Soulja Boy Pepe Sticker - Soulja Boy Pepe Typing Stickers" style="max-width: 104px; background-color: unset; margin: 8px;">
 
 
 <h2> 👩‍💻 About Me </h2>
