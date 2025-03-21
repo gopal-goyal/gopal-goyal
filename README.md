@@ -5,7 +5,7 @@
 <h2> 👩‍💻 About Me </h2>
 
 - 😎 &nbsp; My destiny was to become a cricketer, but my passion led me to software development!
-- 🤩 &nbsp; I’m currently working as a **Senior Developer 2** at **Gemini Solutions Pvt. Ltd.**
+- 🤩 &nbsp; I’m currently working as a **ML/AI Developer** at **Gemini Solutions Pvt. Ltd.**
 - 🧠 &nbsp; I specialize in **Python development**, **Machine Learning**, and **Data Science**.
 - 🎓 &nbsp; Computer Science graduate from **NIT Hamirpur**, a self-taught full-stack developer, and a tech enthusiast.
 - 🚀 &nbsp; I love exploring new technologies, working with AI/ML models, and building real-world projects.
