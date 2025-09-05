@@ -12,10 +12,10 @@
 
 <h2>🛠 Tech Stack</h2>
 
-- 🔧 &nbsp; **AI/ML**: Deep Learning | Hugging Face | YOLO | BERT | Transformers | TensorFlow | PyTorch | Scikit-learn
-- 💻 &nbsp; **Web Development**: HTML5 | CSS3 | JavaScript | React.js | Node.js | Flutter | API Integration | OAuth
-- 🛢 &nbsp; **Databases**: MySQL | MongoDB
-- 🌍 &nbsp; **Tools & Technologies**: AWS (ECS) | Docker | Git | Boto3 | MoviePy | VSCode | Linux | Windows
+- 🔧 &nbsp; **AI/ML**: LangGraph | RAG | LLM | Context Engineering | FineTuning | Computer Vision | NPL | Transformers | TensorFlow | PyTorch | Scikit-learn
+- 💻 &nbsp; **Web Development**: HTML5 | CSS3 | JavaScript | Flutter | API Integration | OAuth
+- 🛢 &nbsp; **Databases**: SQL | NoSQL | Vector Stores | Object Stores
+- 🌍 &nbsp; **Tools & Technologies**: AWS | Docker | Git | Visual Studio | Vim | FFMPEG | VSCode | Linux | Windows | MacOS
 - ⚙️ &nbsp; **Programming Languages**: Python | C | C++ | Dart
 - 💾 &nbsp; **Data Handling & Visualization**: Pandas | Matplotlib | Seaborn | Data Wrangling | Financial Data Analytics
 
